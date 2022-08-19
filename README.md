@@ -1,8 +1,6 @@
-# GTA III Map ([website](https://jeanropke.github.io/GTA3Map/))
-[![Discord](https://img.shields.io/discord/631510938016677889?label=discord)](https://discord.gg/HkU6ugT)
+# GTA V Map
 
-
-[Join our Discord](https://discord.gg/HkU6ugT) to report issues for specific collectables, collaborate with other contributors, ask questions about the map, and talk with translators.
+This is a fork of jeanropke's GTA3 map remade for key locations on Vital RP.
 
 ## [Map Contributors](https://github.com/jeanropke/RDOMap/blob/master/CONTRIBUTORS.md)
 Lots of thanks to the community for contributing to the menu either by providing locations or working on developing the menu into something great.
